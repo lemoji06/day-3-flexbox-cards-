@@ -1,6 +1,6 @@
 h3{
-    Font-family: 'Arial', sans-serif;
-    Color: #333;
+    font-family: 'Arial', sans-serif;
+    color: #333;
     font-size: 24px;
 
 }
@@ -106,7 +106,7 @@ button:not(.primary) {
     color: white;
     border-radius: 12px;
     margin-top: 20px;
-    padding:60px 20px;
+    
 }
 .hero button {
     background: white;
@@ -120,4 +120,12 @@ button:not(.primary) {
 
 .hero button:hover {
     background: #e5e7eb;
+}
+footer {
+    text-align: center;
+    padding: 60px 20px;
+    background: #1e3a5f;
+    color: white;
+    margin-top: 40px;
+    border-radius: 12px;
 }
